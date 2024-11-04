@@ -77,18 +77,6 @@ const Navbar = () => {
             >
               More
             </Link>
-            <Link
-              href="/auth/signup"
-              className="ml-4 border border-gray-900 hover:border-transparent hover:bg-gray-900 hover:text-white rounded-xl px-4 py-2"
-            >
-              Signup
-            </Link>
-            <Link
-              href="/auth/login"
-              className="ml-4 bg-gray-900 text-white rounded-xl hover:text-gray-900 hover:bg-white border border-transparent hover:border-gray-900 px-4 py-2 text-center"
-            >
-              Login
-            </Link>
           </Box>
         </Toolbar>
       </AppBar>
